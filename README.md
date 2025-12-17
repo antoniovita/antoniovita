@@ -6,7 +6,7 @@
 ### 💡 About Me
 
 I'm a **Computer Science student at PUC-Rio**, awarded a **merit-based scholarship** for academic excellence.  
-Currently pursuing an **Additional Major in Data Science**, focusing on **data analysis**, **machine learning**, **web3** and **software engineering**.  
+Currently pursuing an **Additional Major in Data Science**, focusing on **web3** and **software engineering**.  
 
 I have hands-on experience in **web and mobile development** using **TypeScript**, **React**, **React Native (Expo)**, **NestJS**, and **Express**, along with experience in **Python**, **Java (Spring Boot)**, and **Swift (SwiftUI)**.  
 During my **Summer Job at BTG Pactual**, I built **automation and efficiency solutions** using **Python**, **React**, and **AWS** services.  
