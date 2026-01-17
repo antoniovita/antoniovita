@@ -49,7 +49,7 @@ Fluent in **Portuguese, English, French, Spanish, Italian**, and currently learn
   <tr>
     <th align="left">Web3</th>
     <td>
-      <a href="https://hardhat.org/"><img src="https://avatars.githubusercontent.com/u/15413306?s=200&v=4" width="36"/></a>
+      <a href="https://hardhat.org/"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641721533244/EDjMSBz-F.png" width="36"/></a>
       <a href="https://book.getfoundry.sh/"><img src="https://avatars.githubusercontent.com/u/99892494?s=200&v=4" width="36"/></a>
     </td>
   </tr>
