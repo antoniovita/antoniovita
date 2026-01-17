@@ -13,30 +13,69 @@ Fluent in **Portuguese, English, French, Spanish, Italian**, and currently learn
 ---
 
 ### Tech Stack
-<p align="left">
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/></a>
-  <a href="https://developer.apple.com/xcode/swiftui/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="40"/></a>
 
-  <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/></a>
-  <a href="https://nestjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=nestjs" width="40" height="40"/></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" width="40" height="40"/></a>
-  <a href="https://spring.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/></a>
-  <a href="https://expo.dev/" target="_blank"><img src="https://pbs.twimg.com/profile_images/1940486720190820352/7gl2X1b2_400x400.jpg" width="40" height="40"/></a>
+<table>
+  <tr>
+    <th align="left">Languages</th>
+    <td>
+      <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36"/></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36"/></a>
+      <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36"/></a>
+      <a href="https://www.java.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36"/></a>
+      <a href="https://developer.apple.com/swift/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="36"/></a>
+      <a href="https://www.soliditylang.org/"><img src="https://www.svgrepo.com/show/374088/solidity.svg" width="36"/></a>
+    </td>
+  </tr>
 
-  <a href="https://www.soliditylang.org/" target="_blank"><img src="https://www.svgrepo.com/show/374088/solidity.svg" width="40" height="40" style="filter: invert(50%);"/></a>
-  <a href="https://hardhat.org/" target="_blank"><img src="https://avatars.githubusercontent.com/u/15413306?s=200&v=4" width="40" height="40"/></a>
-  <a href="https://book.getfoundry.sh/" target="_blank"><img src="https://avatars.githubusercontent.com/u/99892494?s=200&v=4" width="40" height="40"/></a>
+  <tr>
+    <th align="left">Web & Mobile</th>
+    <td>
+      <a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36"/></a>
+      <a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36"/></a>
+      <a href="https://expo.dev/"><img src="https://pbs.twimg.com/profile_images/1940486720190820352/7gl2X1b2_400x400.jpg" width="36"/></a>
+    </td>
+  </tr>
 
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/></a>
-  <a href="https://playwright.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
-</p>
+  <tr>
+    <th align="left">Backend</th>
+    <td>
+      <a href="https://nestjs.com/"><img src="https://skillicons.dev/icons?i=nestjs" width="36"/></a>
+      <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="36"/></a>
+      <a href="https://spring.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="36"/></a>
+      <a href="https://fastapi.tiangolo.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="36"/></a>
+    </td>
+  </tr>
+
+  <tr>
+    <th align="left">Web3</th>
+    <td>
+      <a href="https://hardhat.org/"><img src="https://avatars.githubusercontent.com/u/15413306?s=200&v=4" width="36"/></a>
+      <a href="https://book.getfoundry.sh/"><img src="https://avatars.githubusercontent.com/u/99892494?s=200&v=4" width="36"/></a>
+    </td>
+  </tr>
+
+  <tr>
+    <th align="left">Databases</th>
+    <td>
+      <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36"/></a>
+      <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36"/></a>
+      <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36"/></a>
+    </td>
+  </tr>
+
+  <tr>
+    <th align="left">DevOps & Cloud</th>
+    <td>
+      <a href="https://aws.amazon.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="36"/></a>
+      <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36"/></a>
+    </td>
+  </tr>
+
+  <tr>
+    <th align="left">Testing & Data</th>
+    <td>
+      <a href="https://playwright.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="36"/></a>
+      <a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36"/></a>
+    </td>
+  </tr>
+</table>
