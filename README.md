@@ -76,7 +76,7 @@ Fluent in **Portuguese, English, French, Spanish, Italian**, and currently learn
   </tr>
 
   <tr>
-    <th align="left">Testing & Data</th>
+    <th align="left">Automation & Data</th>
     <td>
       <a href="https://playwright.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="36"/></a>
       <a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36"/></a>
