@@ -13,7 +13,7 @@ On the application side, I have experience in **web and mobile development** usi
 
 During my **Summer Job at BTG Pactual**, I developed **automation and efficiency solutions** using **Python**, **React**, and **AWS**, gaining exposure to production-grade systems and financial workflows.
 
-Fluent in **Portuguese, English, French, Spanish, Italian**, and currently learning **German**.
+Fluent in **Portuguese, English, French, Spanish, Italian**.
 
 ---
 
