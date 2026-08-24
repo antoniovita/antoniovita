@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Antonio Vita 🇧🇷 🇮🇹 </h1>
-<h3 align="center">Software Engineer | Web3 & Smart Contract Developer | Computer Science Student & Merit Scholar</h3>
+<h1 align="center">Hey, I'm Antonio Vita 🇧🇷 🇮🇹 </h1>
+<h3 align="center">Software Engineer | Computer Science Student & Merit Scholar</h3>
 
 ---
 
@@ -11,11 +11,45 @@ I have hands-on experience building **decentralized applications and on-chain in
 
 On the application side, I have experience in **web and mobile development** using **TypeScript**, **React**, **React Native (Expo)**, **NestJS**, and **Express**, as well as backend and data-oriented work with **Python** and **Java (Spring Boot)**.
 
-During my **Summer Job at BTG Pactual**, I developed **automation and efficiency solutions** using **Python**, **React**, and **AWS**, gaining exposure to production-grade systems and financial workflows.
-
-Fluent in **Portuguese, English, French, Spanish, Italian**.
+I've worked as an intern at **BTG Pactual** and at **Parfin**, a **Web3** company, where I worked with **Solidity** and **frontend development**.
 
 ---
+
+<table>
+<tr>
+<td valign="top" width="22%">
+
+### Languages
+
+<table>
+  <tr>
+    <th align="left">Language</th>
+    <th align="left">Level</th>
+  </tr>
+  <tr>
+    <td>🇧🇷 Português</td>
+    <td>Nativo</td>
+  </tr>
+  <tr>
+    <td>🇮🇹 Italiano</td>
+    <td>Nativo</td>
+  </tr>
+  <tr>
+    <td>🇺🇸 English</td>
+    <td>C1</td>
+  </tr>
+  <tr>
+    <td>🇪🇸 Español</td>
+    <td>B2</td>
+  </tr>
+  <tr>
+    <td>🇫🇷 Français</td>
+    <td>B1</td>
+  </tr>
+</table>
+
+</td>
+<td valign="top" width="45%">
 
 ### Tech Stack
 
@@ -82,4 +116,56 @@ Fluent in **Portuguese, English, French, Spanish, Italian**.
       <a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36"/></a>
     </td>
   </tr>
+</table>
+
+</td>
+<td valign="top" width="33%">
+
+### Education & Certifications
+
+<table>
+  <tr>
+    <th align="left">Institution</th>
+    <th align="left">Program</th>
+  </tr>
+  <tr>
+    <td>PUC-Rio</td>
+    <td>B.Sc. Computer Science (Merit Scholarship · 8.2 GPA)</td>
+  </tr>
+  <tr>
+    <td>PUC-Rio</td>
+    <td>Minor in Data Science</td>
+  </tr>
+  <tr>
+    <td>Duke University</td>
+    <td>DeFi Specialization</td>
+  </tr>
+  <tr>
+    <td>Duke University</td>
+    <td>Understanding Stablecoins</td>
+  </tr>
+  <tr>
+    <td>Duke University</td>
+    <td>Financial Management Specialization</td>
+  </tr>
+  <tr>
+    <td>Anthropic</td>
+    <td>Claude Code in Action</td>
+  </tr>
+  <tr>
+    <td>Cambridge</td>
+    <td>Advanced English — C1</td>
+  </tr>
+  <tr>
+    <td>DELE</td>
+    <td>Spanish — B2</td>
+  </tr>
+  <tr>
+    <td>Cultura Inglesa</td>
+    <td>English Course</td>
+  </tr>
+</table>
+
+</td>
+</tr>
 </table>
