@@ -1,171 +1,44 @@
-<h1 align="center">Hey, I'm Antonio Vita 🇧🇷 🇮🇹 </h1>
-<h3 align="center">Software Engineer | Computer Science Student & Merit Scholar</h3>
+# Antonio Vita
+
+**Software engineer building AI and on-chain infrastructure.**
+Founder of **Bobbio** — an AI operating system for Brazilian legal professionals.
+Rio de Janeiro 🇧🇷 · 🇮🇹
+
+[Website](https://YOUR-SITE) · [LinkedIn](https://linkedin.com/in/YOUR-HANDLE) · [X](https://x.com/YOUR-HANDLE) · [Email](mailto:YOU@EMAIL.COM)
 
 ---
 
-### About Me
+### What I'm building
 
-I'm a **Computer Science student at PUC-Rio**, awarded a **merit-based scholarship** for academic excellence.
+**[Bobbio](https://YOUR-LINK)** — Founder.
+An AI workspace for Brazilian lawyers. Bobbio reads a firm's case files and answers questions about them with grounded, cited responses, so legal teams spend less time searching documents and more time building their case. Private by design and built for LGPD from day one.
 
-I have hands-on experience building **decentralized applications and on-chain infrastructure**, working with **Solidity**, **ERC standards**, and smart contract development using **Hardhat** and **Foundry** for testing, scripting, and deployment.
-
-On the application side, I have experience in **web and mobile development** using **TypeScript**, **React**, **React Native (Expo)**, **NestJS**, and **Express**, as well as backend and data-oriented work with **Python** and **Java (Spring Boot)**.
-
-I've worked as an intern at **BTG Pactual** and at **Parfin**, a **Web3** company, where I worked with **Solidity** and **frontend development**.
+**[Liga da Juventude Livre](https://YOUR-LINK)** — Co-founder.
+A youth organization promoting the ideas of liberty and economic freedom among young Brazilians.
 
 ---
 
-<table>
-<tr>
-<td valign="top" width="22%">
+### Background
 
-### Languages
+- **Parfin** — Software Engineer Intern · Web3 infrastructure, Solidity smart contracts, frontend
+- **BTG Pactual** — Intern · Automation
+- **PUC-Rio** — B.Sc. Computer Science (merit scholarship) · Minor in Data Science
+- **Duke University** — DeFi, Stablecoins, Financial Management specializations
 
-<table>
-  <tr>
-    <th align="left">Language</th>
-    <th align="left">Level</th>
-  </tr>
-  <tr>
-    <td>🇧🇷 Português</td>
-    <td>Nativo</td>
-  </tr>
-  <tr>
-    <td>🇮🇹 Italiano</td>
-    <td>Nativo</td>
-  </tr>
-  <tr>
-    <td>🇺🇸 English</td>
-    <td>C1</td>
-  </tr>
-  <tr>
-    <td>🇪🇸 Español</td>
-    <td>B2</td>
-  </tr>
-  <tr>
-    <td>🇫🇷 Français</td>
-    <td>B1</td>
-  </tr>
-</table>
+---
 
-</td>
-<td valign="top" width="45%">
+### Stack
 
-### Tech Stack
+| | |
+|---|---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=rust,ts,js,py,java,solidity" height="36"/> |
+| **Web, Mobile & Desktop** | <img src="https://skillicons.dev/icons?i=react,nextjs,tauri" height="36"/> &nbsp;`React Native` `Expo` |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nestjs,express,spring,fastapi" height="36"/> |
+| **Web3** | `Hardhat` `Foundry` `Anchor` `ERC standards` |
+| **AI & Data** | `LangGraph` `pgvector` `pandas` `Playwright` |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite" height="36"/> |
+| **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=aws,docker" height="36"/> |
 
-<table>
-  <tr>
-    <th align="left">Languages</th>
-    <td>
-      <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36"/></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36"/></a>
-      <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36"/></a>
-      <a href="https://www.java.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36"/></a>
-      <a href="https://www.soliditylang.org/"><img src="https://www.svgrepo.com/show/374088/solidity.svg" width="36"/></a>
-    </td>
-  </tr>
+---
 
-  <tr>
-    <th align="left">Web & Mobile</th>
-    <td>
-      <a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36"/></a>
-      <a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36"/></a>
-      <a href="https://expo.dev/"><img src="https://pbs.twimg.com/profile_images/1940486720190820352/7gl2X1b2_400x400.jpg" width="36"/></a>
-    </td>
-  </tr>
-
-  <tr>
-    <th align="left">Backend</th>
-    <td>
-      <a href="https://nestjs.com/"><img src="https://skillicons.dev/icons?i=nestjs" width="36"/></a>
-      <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="36"/></a>
-      <a href="https://spring.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="36"/></a>
-      <a href="https://fastapi.tiangolo.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="36"/></a>
-    </td>
-  </tr>
-
-  <tr>
-    <th align="left">Web3</th>
-    <td>
-      <a href="https://hardhat.org/"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641721533244/EDjMSBz-F.png" width="36"/></a>
-      <a href="https://book.getfoundry.sh/"><img src="https://avatars.githubusercontent.com/u/99892494?s=200&v=4" width="36"/></a>
-    </td>
-  </tr>
-
-  <tr>
-    <th align="left">Databases</th>
-    <td>
-      <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36"/></a>
-      <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36"/></a>
-      <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36"/></a>
-    </td>
-  </tr>
-
-  <tr>
-    <th align="left">DevOps & Cloud</th>
-    <td>
-      <a href="https://aws.amazon.com/"><img src="https://s3.us-west-2.amazonaws.com/content.podia.com/8jo3atdj7sj3s641ee9r03cv152u" width="36"/></a>
-      <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36"/></a>
-    </td>
-  </tr>
-
-  <tr>
-    <th align="left">Automation & Data</th>
-    <td>
-      <a href="https://playwright.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="36"/></a>
-      <a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36"/></a>
-    </td>
-  </tr>
-</table>
-
-</td>
-<td valign="top" width="33%">
-
-### Education & Certifications
-
-<table>
-  <tr>
-    <th align="left">Institution</th>
-    <th align="left">Program</th>
-  </tr>
-  <tr>
-    <td>PUC-Rio</td>
-    <td>B.Sc. Computer Science (Merit Scholarship · 8.2 GPA)</td>
-  </tr>
-  <tr>
-    <td>PUC-Rio</td>
-    <td>Minor in Data Science</td>
-  </tr>
-  <tr>
-    <td>Duke University</td>
-    <td>DeFi Specialization</td>
-  </tr>
-  <tr>
-    <td>Duke University</td>
-    <td>Understanding Stablecoins</td>
-  </tr>
-  <tr>
-    <td>Duke University</td>
-    <td>Financial Management Specialization</td>
-  </tr>
-  <tr>
-    <td>Anthropic</td>
-    <td>Claude Code in Action</td>
-  </tr>
-  <tr>
-    <td>Cambridge</td>
-    <td>Advanced English — C1</td>
-  </tr>
-  <tr>
-    <td>DELE</td>
-    <td>Spanish — B2</td>
-  </tr>
-  <tr>
-    <td>Cultura Inglesa</td>
-    <td>English Course</td>
-  </tr>
-</table>
-
-</td>
-</tr>
-</table>
+<sub>Portuguese & Italian (native) · English (C1) · Spanish (B2) · French (B1)</sub>
