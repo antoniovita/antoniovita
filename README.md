@@ -4,16 +4,16 @@
 Founder of **Bobbio** — an AI operating system for Brazilian legal professionals.
 Rio de Janeiro 🇧🇷 · 🇮🇹
 
-[Website](https://YOUR-SITE) · [LinkedIn](https://linkedin.com/in/YOUR-HANDLE) · [X](https://x.com/YOUR-HANDLE) · [Email](mailto:YOU@EMAIL.COM)
+[Website](https://antoniovita.me/en) · [LinkedIn](https://www.linkedin.com/in/antonio-vita-6177922b7) · [Email](mailto:antoniovitafonseca@gmail.com)
 
 ---
 
 ### What I'm building
 
-**[Bobbio](https://YOUR-LINK)** — Founder.
+**[Bobbio](https://bobbio.app)** — Founder.
 An AI workspace for Brazilian lawyers. Bobbio reads a firm's case files and answers questions about them with grounded, cited responses, so legal teams spend less time searching documents and more time building their case. Private by design and built for LGPD from day one.
 
-**[Liga da Juventude Livre](https://YOUR-LINK)** — Co-founder.
+**[Liga da Juventude Livre](https://ligadajuventudelivre.com)** — Co-founder.
 A youth organization promoting the ideas of liberty and economic freedom among young Brazilians.
 
 ---
