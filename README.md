@@ -13,9 +13,6 @@ Rio de Janeiro 🇧🇷 · 🇮🇹
 **[Bobbio](https://bobbio.app)** — Founder.
 An AI workspace for Brazilian lawyers. Bobbio reads a firm's case files and answers questions about them with grounded, cited responses, so legal teams spend less time searching documents and more time building their case. Private by design and built for LGPD from day one.
 
-**[Liga da Juventude Livre](https://ligadajuventudelivre.com)** — Co-founder.
-A youth organization promoting the ideas of liberty and economic freedom among young Brazilians.
-
 ---
 
 ### Background
